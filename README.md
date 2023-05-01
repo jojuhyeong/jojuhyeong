@@ -1,6 +1,6 @@
 ### hello there 👋
 
-<img src = https://img.shields.io/appveyor/build/jojuhyeong/jojuhyeong?label=technology%20stack>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 <!--
 **jojuhyeong/jojuhyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
