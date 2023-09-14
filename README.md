@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=programmer7771@gmail.com"/style=Color=black>jojoo9279@gmail.com</a>
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=programmer7771@gmail.com"/>jojoo9279@gmail.com</a>
 </p>
 
 <p>
